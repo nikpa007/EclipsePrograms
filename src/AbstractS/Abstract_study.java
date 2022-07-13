@@ -15,4 +15,5 @@ public abstract class Abstract_study {
 	}
 	
 	public abstract void test3();// incomplete method
+	//commiting program & making new changes
 }
